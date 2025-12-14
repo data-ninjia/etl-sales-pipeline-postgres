@@ -1,4 +1,4 @@
-# Etl Sales Pipeline Postgres
+# ETL Sales Pipeline Postgres
 ETL pipeline that extracts CSV sales data, validates and cleans it, and loads it into PostgreSQL using Python.
 
 Tech Stack:
